@@ -3,3 +3,13 @@ C:\Users\Lenovo\Desktop\Домашняя работа\Семинар 1\зада�
 C:\Users\Lenovo\Desktop\Домашняя работа\Семинар 1\задача 2\зд2\obj\Debug\net6.0\зд2.AssemblyInfoInputs.cache
 C:\Users\Lenovo\Desktop\Домашняя работа\Семинар 1\задача 2\зд2\obj\Debug\net6.0\зд2.AssemblyInfo.cs
 C:\Users\Lenovo\Desktop\Домашняя работа\Семинар 1\задача 2\зд2\obj\Debug\net6.0\зд2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Домашняя работа\Семинар 1\задача 2\зд2\bin\Debug\net6.0\зд2.exe
+C:\Users\Lenovo\Desktop\Домашняя работа\Семинар 1\задача 2\зд2\bin\Debug\net6.0\зд2.deps.json
+C:\Users\Lenovo\Desktop\Домашняя работа\Семинар 1\задача 2\зд2\bin\Debug\net6.0\зд2.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Домашняя работа\Семинар 1\задача 2\зд2\bin\Debug\net6.0\зд2.dll
+C:\Users\Lenovo\Desktop\Домашняя работа\Семинар 1\задача 2\зд2\bin\Debug\net6.0\зд2.pdb
+C:\Users\Lenovo\Desktop\Домашняя работа\Семинар 1\задача 2\зд2\obj\Debug\net6.0\зд2.dll
+C:\Users\Lenovo\Desktop\Домашняя работа\Семинар 1\задача 2\зд2\obj\Debug\net6.0\refint\зд2.dll
+C:\Users\Lenovo\Desktop\Домашняя работа\Семинар 1\задача 2\зд2\obj\Debug\net6.0\зд2.pdb
+C:\Users\Lenovo\Desktop\Домашняя работа\Семинар 1\задача 2\зд2\obj\Debug\net6.0\зд2.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Домашняя работа\Семинар 1\задача 2\зд2\obj\Debug\net6.0\ref\зд2.dll
