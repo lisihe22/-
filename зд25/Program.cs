@@ -3,10 +3,10 @@ int a = Convert.ToInt32(Console.ReadLine());
 Console.Write("введите число B: ");
 int b = Convert.ToInt32(Console.ReadLine());
 
-int st = a;
+int x = a;
 
     for (int i = 1; i < b; i++)
 {
-        st = st*a;
+        x = x*a;
 }
-Console.WriteLine($"Число {a} в степень {b} = {st}");
+Console.WriteLine($"Число {a} в степень {b} = {x}");
